@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.collabor8app.com	TRUE	/	FALSE	1999999999	__cfduid	dc3d6ecb3fe3b3f72cfb34e7275d4a4bf1581284573
-assets.collabor8app.com	TRUE	/	FALSE	1999999999	SameSite	Lax
-lynxinbio.com	TRUE	/	FALSE	1999999999	lynx_visitor_id	e698f644-8fd8-4889-8d20-35a2400e41b7
-
